@@ -23,6 +23,6 @@ If you would like to get in touch with me or discuss potential collaboration opp
 
 - Email: [nimiadas01@gmail.com](mailto:nimiadas01@gmail.com)
 - LinkedIn: [Nimia Das A](https://www.linkedin.com/in/nimia-das-a-67a5a722b)
-- Portfolio Website: [ https://nimiadas.github.io/portfolio-nimiadas/]( https://nimiadas.github.io/portfolio-nimiadas/)
+- Portfolio Website: [https://nimiadas.github.io/portfolio/](https://nimiadas.github.io/portfolio/)
 
 
